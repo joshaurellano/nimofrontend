@@ -72,12 +72,6 @@ function Login() {
 
   return (
     <>
-      <Navbar bg="success" variant="dark">
-        <Container>
-          <Navbar.Brand>Amira</Navbar.Brand>
-        </Container>
-      </Navbar>
-
       {/* Welcome Message Outside the Box */}
       <Container className="d-flex justify-content-center align-items-center" style={{ minHeight: '100vh' }}>
         <div className="text-center mb-5">

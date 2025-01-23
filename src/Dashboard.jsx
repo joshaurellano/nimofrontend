@@ -190,7 +190,7 @@ function Dashboard() {
     <>
       <Navbar bg="primary" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Amira</Navbar.Brand>
+          <Navbar.Brand href="#home">Nimo</Navbar.Brand>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Button variant="light" className="me-2" onClick={() => setShowUsersModal(true)}>
